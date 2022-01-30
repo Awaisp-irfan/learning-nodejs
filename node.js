@@ -1,8 +1,11 @@
-setTimeout(()=>{
-    console.log('in the time out');
-    clearInterval(int) 
-}, 3000)
+// setTimeout(()=>{
+//     console.log('in the time out');
+//     clearInterval(int) 
+// }, 3000)
 
-const int = setInterval(() => {
-    console.log('in the intervel');
-}, 1000);
+// const int = setInterval(() => {
+//     console.log('in the intervel');
+// }, 1000);
+
+console.log(__dirname);
+console.log(__filename);
