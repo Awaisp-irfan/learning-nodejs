@@ -7,5 +7,8 @@
 //     console.log('in the intervel');
 // }, 1000);
 
-console.log(__dirname);
-console.log(__filename);
+// console.log(__dirname);
+// console.log(__filename);
+
+const {array , int } = require('./data')
+console.log(array , int);
