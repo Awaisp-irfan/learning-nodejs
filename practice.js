@@ -7,5 +7,4 @@ setTimeout(()=>{
         console.log('in the intervel');
     }, 1000);
     
-    console.log(__dirname);
-    console.log(__filename);
+  
